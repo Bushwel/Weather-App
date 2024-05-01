@@ -22,7 +22,6 @@ CSS: Used for styling and visual enhancements, providing an appealing user inter
 JavaScript: Used to fetch weather data from the API, handle user location, and dynamically update the content based on the received data.
 Weather API: The app integrates with a weather API to retrieve accurate and real-time weather information.
 
-Contributions:
-Contributions to this project are welcome! If you encounter any issues, have suggestions for improvements, or want to add new features, please feel free to open an issue or submit a pull request. Let's make Weather App even better together!
+
 
 Enjoy using Weather App to stay updated on weather conditions and plan your days accordingly! Your feedback and contributions are highly appreciated. If you have any questions or need further assistance, please don't hesitate to reach out.
